@@ -118,10 +118,10 @@ Baby.prototype.play = function () {
   TASK 4
 
   In your own words explain the four principles for the "this" keyword below:
-  1. 
-  2. 
-  3. 
-  4. 
+  1. It applies to the window by default if no other rules apply.
+  2. When the function is invoked, whatever is to the left of the '.' is what 'this' refers to.
+  3. Only applies to objects that have methods.
+  4. It usally says what its binded too, implicit binding.
 */
 
 
